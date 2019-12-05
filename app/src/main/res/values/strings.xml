@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ChatterBot</string>
     <string name="btSend">Enviar</string>
-    <string name="etText">Escribe un mensaje</string>
+    <string name="mensaje">Escribe un mensaje nuevo</string>
 </resources>
